@@ -1,9 +1,6 @@
 // declare تعريف المتغبرات
 // assign اعطاءه قيمة
 
-
-
-
 let name = "haia";
 let sum;
 let des;
@@ -17,9 +14,7 @@ console.log(sum);
 des = x - y;
 console.log(des);
 
-
-
- let multipy= x * y;
+let multipy= x * y;
 console.log(multipy);
 
 let eq= x / y;
