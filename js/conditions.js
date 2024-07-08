@@ -58,6 +58,23 @@ function evenOrodd (num) {
     }
 }
 
+// function xx() {
+// // === هل يتساوى فى القيمة والنوع
+// // == فقط هل يتساوى فى القيمة 
+
+//     //  if(5 === 5){
+//     //     console.log(true);
+
+//     // }else
+//      if(5 == "5"){
+//         console.log("equals");
+//     }
+//     else {
+//         console.log(false);
+        
+//     }
+// }
+// xx()
 
 console.log(evenOrodd(5))
 console.log(evenOrodd(8))
