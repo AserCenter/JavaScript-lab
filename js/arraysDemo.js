@@ -122,3 +122,6 @@ console.log(fruits); // Output: ["Orange", "Banana", "Apple"]
 fruits.sort();
 console.log(fruits); // Output: ["Apple", "Banana", "Orange"]
 
+
+
+
